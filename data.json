@@ -1,0 +1,122 @@
+[
+    {
+      "text": "meu teste falhou",
+      "category": "software"
+    },
+    {
+      "text": "tentei instalar, mas deu erro",
+      "category": "software"
+    },
+    {
+      "text": "eu preciso de mais processamento",
+      "category": "hardware"
+    },
+    {
+      "text": "o hd tem 2TB de capacidade",
+      "category": "hardware"
+    },
+    {
+      "text": "testes unitarios",
+      "category": "software"
+    },
+    {
+      "text": "programa",
+      "category": "software"
+    },
+    {
+      "text": "processamento",
+      "category": "hardware"
+    },
+    {
+      "text": "ssd",
+      "category": "hardware"
+    },
+    {
+      "text": "preciso de mais memoria",
+      "category": "hardware"
+    },
+    {
+      "text": "codigo",
+      "category": "software"
+    },
+    {
+      "text": "encontrei alguns erros no meu codigo",
+      "category": "software"
+    },
+    {
+      "text": "vou trocar a memoria",
+      "category": "hardware"
+    },
+    {
+      "text": "eu testei o codigo",
+      "category": "software"
+    },
+    {
+      "text": "eu amo computadores",
+      "category": "hardware"
+    },
+    {
+      "text": "programação",
+      "category": "software"
+    },
+    {
+      "text": "eu quebrei meu pc",
+      "category": "hardware"
+    },
+    {
+      "text": "computador",
+      "category": "hardware"
+    },
+    {
+        "text": "comprar um notebook",
+        "category": "hardware"
+    },
+    {
+        "text": "eu amo jogar video games",
+        "category": "software"
+    },
+    {
+        "text": "a tela do notebook quebrou",
+        "category": "hardware"
+    },
+    {
+        "text": "instalar",
+        "category": "software"
+    },
+    {
+        "text": "vou instalar o photoshop",
+        "category": "software"
+    },
+    {
+        "text": "desinstalar",
+        "category": "software"
+    },
+    {
+        "text": "vou desinstalar o lol",
+        "category": "software"
+    },
+    {
+        "text": "a placa de video está com a temperatura alta",
+        "category": "hardware"
+    },
+    {
+        "text": "placa de video",
+        "category": "hardware"
+    },
+    {
+        "text": "minha fonte atx queimou",
+        "category": "hardware"
+    },
+    {
+        "text": "vou fazer upgrade na memoria ram",
+        "category": "hardware"
+    },
+    {
+        "text": "memoria",
+        "category": "hardware"
+    },
+    {
+        "text": "o capacitor da placa mãe estufou",
+        "category": "hardware"
+    }
+  ]
